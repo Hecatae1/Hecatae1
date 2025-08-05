@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 # 💫 About Me:
  🔭 I’m currently working on graduating and making a chat app <br/>
  🌱 I’m currently strengthening my skills in C/C++, .Net and react <br/>
- 👯 I’m looking to collaborate on any open source prijects <br/>
+ 👯 I’m looking to collaborate on any open source projects <br/>
  🤔 I’m looking for a mentor <br/>
  💬 Ask me about why I am doing thins <br/>
  
