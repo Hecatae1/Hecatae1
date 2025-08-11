@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
  🌱 I’m currently strengthening my skills in C/C++, .Net and react <br/>
  👯 I’m looking to collaborate on any open source projects <br/>
  🤔 I’m looking for a mentor <br/>
- 💬 Ask me about why I am doing thins <br/>
+ 💬 Ask me about why I am doing this <br/>
  
  😄 Pronouns: She/her <br/>
  ⚡ bool chocolate_is_my_weakness = true <br/>
