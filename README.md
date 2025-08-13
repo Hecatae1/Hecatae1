@@ -41,3 +41,5 @@ Here are some ideas to get you started: -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Hecatae1/Hecatae1/main/snake.svg?sanitize=true" alt="Snake Game Demo" />
+
