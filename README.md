@@ -44,5 +44,5 @@ Here are some ideas to get you started: -->
 ## Thanks for Visiting my GitHub Profile!
 
 <img src="https://raw.githubusercontent.com/Hecatae1/Hecatae1/main/snake.svg?sanitize=true" alt="Snake Game Demo" />
-![](https://komarev.com/ghpvc/?username=Hecatae1)
-
+[![](https://komarev.com/ghpvc/?username=Hecatae1)]
+[![](https://visitcount.itsvg.in/api?id=Hecatae1&icon=0&color=0)](https://visitcount.itsvg.in)
