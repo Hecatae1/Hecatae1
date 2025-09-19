@@ -44,4 +44,5 @@ Here are some ideas to get you started: -->
 ## Thanks for Visiting my GitHub Profile!
 
 <img src="https://raw.githubusercontent.com/Hecatae1/Hecatae1/main/snake.svg?sanitize=true" alt="Snake Game Demo" />
+![Visitor Count](https://komarev.com/ghpvc/?username=Hecatae1&color=blue)
 
