@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aisha ✨
+## Hi there 👋 I am Naomi ✨
 
 <!--
 **Hecatae1/Hecatae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
